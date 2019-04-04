@@ -1,0 +1,30 @@
+[
+  {
+    "Nombre": "CucumberTest",
+    "Apellido": "CucumberUser",
+    "DNI": "34567890",
+    "Domicilio de facturaccion": {
+      "Calle": "Avenida Siempreviva",
+      "Numero": "746",
+      "PisoDepartamento": "PB",
+      "CodigoPostal": "1428",
+      "Provincia": "Buenos Aires",
+      "LocalidadBarrio": "Buenos Aires"
+    }
+  },
+  {
+    "Nombre": "TestCucumber",
+    "Apellido": "UserCucumber",
+    "DNI": "34765098",
+    "DomicilioFacturaccion": {
+      "NombreApellido": "CucumberTestUser",
+      "Calle": "Avenida Siempreviva",
+      "Numero": "746",
+      "PisoDepartamento": "PB",
+      "CodigoPostal": "1428",
+      "Provincia": "Buenos Aires",
+      "LocalidadBarrio": "Buenos Aires",
+      "TelefonoDeContacto": "011 34658765"
+    }
+  }
+]
